@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend, App dev**
 
-- 🤝 I’m looking for help with **-nil-**
-
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **seshan0072@gmail.com**
