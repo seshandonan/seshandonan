@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seshan</h1>
-<h3 align="center">A passionate frontend,software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **PDF Invoice to data using python**
 
