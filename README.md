@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **seshan0072@gmail.com**
+- 📫 How to reach me **donanseshan@gmail.com**
 
 - ⚡ Fun fact **Daijobu des ka?!**
 
