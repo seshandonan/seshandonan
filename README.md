@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **seshan0072@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hTNEa99xxX1bIaMsMvHnzQhs2u4MQepa/view?usp=sharing](https://drive.google.com/file/d/1hTNEa99xxX1bIaMsMvHnzQhs2u4MQepa/view?usp=sharing)
-
 - ⚡ Fun fact **Daijobu des ka?!**
 
 
